@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Applications", "Console_Applications\Console_Applications.csproj", "{E338810A-C6EB-4F10-A3CB-4B56C86F7925}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM-Simulation", "Console_Applications\ATM-Simulation.csproj", "{E338810A-C6EB-4F10-A3CB-4B56C86F7925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Task Manager", "Smart Task Manager\Smart Task Manager.csproj", "{18E548A7-10E5-41CF-B9EC-A29816846F7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E338810A-C6EB-4F10-A3CB-4B56C86F7925}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E338810A-C6EB-4F10-A3CB-4B56C86F7925}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E338810A-C6EB-4F10-A3CB-4B56C86F7925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E548A7-10E5-41CF-B9EC-A29816846F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E548A7-10E5-41CF-B9EC-A29816846F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E548A7-10E5-41CF-B9EC-A29816846F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E548A7-10E5-41CF-B9EC-A29816846F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
